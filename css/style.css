@@ -249,6 +249,9 @@ img {
   font-weight: 400px;
   color: rgb(124, 111, 122);
 }
+.answer{
+  color: rgb(124, 111, 122);
+}
 
 @media only screen and (max-width: 992px) {
   #posts {
