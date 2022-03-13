@@ -244,6 +244,11 @@ img {
 #reported{
   display: none;
 }
+#instra{
+  font-size: 60px;
+  font-weight: 400px;
+  color: rgb(124, 111, 122);
+}
 
 @media only screen and (max-width: 992px) {
   #posts {
